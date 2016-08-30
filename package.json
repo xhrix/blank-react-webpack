@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "todo:"
+    "url": "git@github.com:xhrix/blank-react-webpack.git"
   },
   "keywords": [
     "reactjs",
